@@ -2,8 +2,7 @@ cask "displayshift" do
   version "1.7.7"
   sha256 "d2947af03ec8fff0faadbd582f6fbec2c95d6e8742aea4963784d8f9435bb35b"
 
-  url "https://github.com/AqibJavedZeepalm/mac-apps/releases/download/displayshift-#{version}/DisplayShift-#{version}.zip",
-      verified: "github.com/AqibJavedZeepalm/mac-apps/"
+  url "https://github.com/AqibJavedZeepalm/mac-apps/releases/download/displayshift-#{version}/DisplayShift-#{version}.zip"
   name "DisplayShift"
   desc "Moves windows to a monitor when it connects and puts them back"
   homepage "https://aqibjaved.dev/apps/displayshift/"

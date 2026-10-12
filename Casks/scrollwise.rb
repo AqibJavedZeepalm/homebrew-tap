@@ -2,8 +2,7 @@ cask "scrollwise" do
   version "1.2.3"
   sha256 "69eb02ad4d2ff8165d5f41ea6b53622dfd40959ff6056217e22d79a16dea13f8"
 
-  url "https://github.com/AqibJavedZeepalm/mac-apps/releases/download/scrollwise-#{version}/Scrollwise-#{version}.zip",
-      verified: "github.com/AqibJavedZeepalm/mac-apps/"
+  url "https://github.com/AqibJavedZeepalm/mac-apps/releases/download/scrollwise-#{version}/Scrollwise-#{version}.zip"
   name "Scrollwise"
   desc "Natural scrolling on the trackpad, classic scrolling on a mouse"
   homepage "https://aqibjaved.dev/apps/scrollwise/"
