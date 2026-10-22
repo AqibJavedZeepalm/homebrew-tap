@@ -1,6 +1,6 @@
 cask "displayshift" do
-  version "1.7.11"
-  sha256 "e067b70b08166bc71f939ebeae5ed2ccdbfbe1e5fdedf8344fc09035cc771417"
+  version "1.7.12"
+  sha256 "81b0200b2ee7f2df085127ce789ea686e9647ebc56c3ff8fe2c1df626366c5df"
 
   url "https://github.com/AqibJavedZeepalm/mac-apps/releases/download/displayshift-#{version}/DisplayShift-#{version}.zip"
   name "DisplayShift"
