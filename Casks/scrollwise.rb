@@ -1,6 +1,6 @@
 cask "scrollwise" do
-  version "2.0.2"
-  sha256 "c9e9b691c16f028d25a0ed78b65a0aa9fbbe49029f0df573c9022b6c53e9001c"
+  version "2.0.3"
+  sha256 "13dac50b5af51d1d921d0b74394a9c9465a34a4b27aaea723cc1389cb7173663"
 
   url "https://github.com/AqibJavedZeepalm/mac-apps/releases/download/scrollwise-#{version}/Scrollwise-#{version}.zip"
   name "Scrollwise"
