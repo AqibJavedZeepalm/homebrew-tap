@@ -1,6 +1,6 @@
 cask "notchet" do
-  version "1.0.16"
-  sha256 "a1f43fac391117b73ffea3395289114537a66169f11e93e55309f346e5fd9100"
+  version "1.0.17"
+  sha256 "62593bb56fc8e28a6638c1fc79cdad8d65433100c913e8da52fd5a6ff8b301a8"
 
   url "https://github.com/AqibJavedZeepalm/mac-apps/releases/download/notchet-#{version}/Notchet-#{version}.zip"
   name "Notchet"
